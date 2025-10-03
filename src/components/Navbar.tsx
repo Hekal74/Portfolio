@@ -39,7 +39,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="/Eslam-Hekal-CV.pdf"
+              href="/Eslam_Hekal_CV.pdf"
               download
               className="bg-blue-600 text-white px-4 py-2 rounded-xl hover:bg-blue-700 transition"
             >
@@ -80,8 +80,8 @@ const Navbar = () => {
             ))}
             <li>
               <a
-                href="/Eslam-Hekal-CV.pdf"
-                download
+                 href="/Eslam_Hekal_CV.pdf"
+                download="Eslam_Mohamed_Hekal_CV.pdf"
                 className="bg-blue-600 text-white px-4 py-2 rounded-xl hover:bg-blue-700 transition"
               >
                 Download CV
